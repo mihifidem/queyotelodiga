@@ -1,0 +1,14 @@
+feat: añadir página de perfil
+fix: corregir error en el formulario de login
+<tipo>(opcional-área): mensaje breve
+
+
+feat(cart): añadir cálculo total de productos
+
+- Se agrega función calculateTotal()
+- Se actualiza el estado global con Redux
+- Se corrige un caso límite con productos sin precio
+
+
+
+feat(auth): implementar login con JWT
